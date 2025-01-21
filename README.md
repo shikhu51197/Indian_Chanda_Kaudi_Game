@@ -26,7 +26,7 @@
 ⭕One of the unique features of Chanda Kaudi is its ability to be played by people of all ages, making it a great game for families and friends to enjoy together. 
 The game can be played with a computer opponent; it is a multiplayer game with people from around the world.
 
-⭕Additionally, players can connect with each other through real-time chats while playing the game together...This was a collaborative Project which is made by 4 team members within 2 Days.
+⭕Additionally, players can connect with each other through real-time chats while playing the game together...
 
 ---
 
@@ -55,7 +55,7 @@ The game can be played with a computer opponent; it is a multiplayer game with p
 - #### For Frontend :-
    - `ReactJS`
    - `Typescript`
-   - `JavaScript `
+   - `JavaScript`
 
 
 - #### For Backend :-
