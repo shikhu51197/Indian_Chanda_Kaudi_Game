@@ -53,12 +53,10 @@ The game can be played with a computer opponent; it is a multiplayer game with p
 ## 💫Tech-Stack->
 
 - #### For Frontend :-
-   - `HTML5`
-  - `CSS3`
+   - `ReactJS`
+  - `Typescript`
   - `JavaScript `
-  - `ReactJS`
-  - `Typescript `
-   - `ES6 `
+
 
 - #### For Backend :-
     - `Socket.io`
@@ -130,9 +128,8 @@ graph TD;
 ---
 
 # HomePage
-![Screenshot (1695)](https://user-images.githubusercontent.com/107506646/222924091-0e918d6a-8904-4ce1-9f83-6886b382eebf.png)
-![image](https://github.com/user-attachments/assets/db4d0f24-0e5d-4593-8621-611419309fdc)
 
+![image](https://github.com/user-attachments/assets/db4d0f24-0e5d-4593-8621-611419309fdc)
 
 ![Screenshot (1696)](https://user-images.githubusercontent.com/107506646/222924124-29e95283-f287-4ea4-b72f-914a5be75e3b.png)
 
@@ -141,8 +138,8 @@ graph TD;
 
 # Signup Page 
 
-
 ![Screenshot (1693)](https://user-images.githubusercontent.com/107506646/222924095-64c03c7f-fb3a-4e57-8cf1-70507032b7dc.png)
+
 
 # LoginPage
 
