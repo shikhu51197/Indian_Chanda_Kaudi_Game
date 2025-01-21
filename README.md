@@ -131,6 +131,8 @@ graph TD;
 
 # HomePage
 ![Screenshot (1695)](https://user-images.githubusercontent.com/107506646/222924091-0e918d6a-8904-4ce1-9f83-6886b382eebf.png)
+![image](https://github.com/user-attachments/assets/db4d0f24-0e5d-4593-8621-611419309fdc)
+
 
 ![Screenshot (1696)](https://user-images.githubusercontent.com/107506646/222924124-29e95283-f287-4ea4-b72f-914a5be75e3b.png)
 
