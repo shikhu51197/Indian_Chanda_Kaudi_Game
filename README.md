@@ -54,8 +54,8 @@ The game can be played with a computer opponent; it is a multiplayer game with p
 
 - #### For Frontend :-
    - `ReactJS`
-  - `Typescript`
-  - `JavaScript `
+   - `Typescript`
+   - `JavaScript `
 
 
 - #### For Backend :-
